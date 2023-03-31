@@ -246,7 +246,8 @@ controller:
     - git:5.0.0
     - configuration-as-code:1569.vb_72405b_80249
     - github:1.37.0
-    - html-publisher:1.31
+    - htmlpublisher:1.31
+    - pipeline-stage-view:2.32
 
   # Set to false to download the minimum required version of all dependencies.
   installLatestPlugins: true
