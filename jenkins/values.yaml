@@ -249,7 +249,7 @@ controller:
     - git:5.2.0
     - configuration-as-code:1670.v564dc8b_982d0
     - github:1.37.3.1
-    - htmlpublisher:1.31
+    - htmlpublisher:1.32
     - pipeline-stage-view:2.32
 
   # Set to false to download the minimum required version of all dependencies.
